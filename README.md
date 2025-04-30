@@ -1,1 +1,1 @@
-#shopkart
+Shopkart is a Spring Boot-based Java web application designed for managing an online shopping platform. It provides RESTful APIs for product listing, user registration/login, shopping cart management, and order processing. Built with Spring Boot, JPA, and MySQL, the project follows a clean MVC structure and supports CRUD operations, secure authentication, and scalable service layers for a seamless e-commerce experience.
